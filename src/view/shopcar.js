@@ -58,6 +58,7 @@ class Shopcar extends React.Component {
             </div >
         )
     }
+    //加
     add(index) {
         let { shopcar } = this.props
         shopcar[index].num++
@@ -65,6 +66,7 @@ class Shopcar extends React.Component {
         this.props.setState('shopcar', newshopcar)
 
     }
+    //减
     remove(index) {
         let { shopcar } = this.props
         if (shopcar[index].num > 1) {
@@ -75,6 +77,7 @@ class Shopcar extends React.Component {
             this.delete(index)
         }
     }
+    //删除
     delete(index) {
         axios.get('/api/delete',{
             params: {
@@ -93,6 +96,7 @@ handleSelect(index, e) {
     let newshopcar = JSON.parse(JSON.stringify(shopcar))
     this.props.setState('shopcar', newshopcar)
 }
+//全选
 handleSelectAll(e){
   let {shopcar} = this.props
   shopcar.forEach(item=>{
@@ -141,7 +145,6 @@ componentDidMount() {
 const mapStateToProps = (state) => {
     return {
         shopcar: state.shopcar,
-        a: []
     }
 }
 const mapDispatchToProps = (dispatch) => {

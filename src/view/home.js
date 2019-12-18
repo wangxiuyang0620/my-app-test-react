@@ -34,6 +34,7 @@ class Home extends React.Component {
             </>
         )
     }
+    //换一换随机切换数据
     chang(){
         let list=[]
         let arr=[parseInt(Math.random()*5),parseInt(Math.random()*5),parseInt(Math.random()*5)]
