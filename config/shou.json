@@ -1,0 +1,22 @@
+[{
+        "name": "红豆奶茶",
+        "img": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=492840905,3646568034&fm=11&gp=0.jpg",
+        "id": 7,
+        "price": 10,
+        "num": 1
+    },
+    {
+        "name": "可乐奶茶",
+        "img": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2710924264,2719135061&fm=26&gp=0.jpg",
+        "id": 8,
+        "price": 30,
+        "num": 1
+    },
+    {
+        "name": "千克力奶茶",
+        "img": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3897725773,3659064831&fm=26&gp=0.jpg",
+        "id": 9,
+        "price": 10,
+        "num": 1
+    }
+]

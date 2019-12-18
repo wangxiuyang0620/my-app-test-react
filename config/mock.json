@@ -1,0 +1,36 @@
+[{
+        "name": "芝士奶茶",
+        "img": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1928036423,3074776914&fm=26&gp=0.jpg",
+        "id": 1,
+        "price": 20,
+        "num": 1
+    },
+    {
+        "name": "茫茫芝士",
+        "img": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2919667498,1427646559&fm=26&gp=0.jpg",
+        "id": 2,
+        "price": 10,
+        "num": 1
+    },
+    {
+        "name": "百香果双向",
+        "img": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1327162429,970903900&fm=26&gp=0.jpg",
+        "id": 3,
+        "price": 20,
+        "num": 1
+    },
+    {
+        "name": "红豆奶茶",
+        "img": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=492840905,3646568034&fm=11&gp=0.jpg",
+        "id": 4,
+        "price": 10,
+        "num": 1
+    },
+    {
+        "name": "可乐奶茶",
+        "img": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2710924264,2719135061&fm=26&gp=0.jpg",
+        "id": 5,
+        "price": 30,
+        "num": 1
+    }
+]
